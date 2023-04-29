@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">onlinetelegramintro</string>
+    <string name="start_message">Start messaging</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="monday">Monday</string>
+</resources>
